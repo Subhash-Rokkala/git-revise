@@ -1,2 +1,1 @@
-Version1
-version 2
+Application version 1.0
