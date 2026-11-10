@@ -1,3 +1,4 @@
 Application version 1.0
 Production configuration enabled
 Login feature enabled
+Production configuration enabled
